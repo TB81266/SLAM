@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/GaussNewton.dir/Gauss-Newton-Code.cpp.o  -o GaussNewton 
