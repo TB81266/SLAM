@@ -1,0 +1,3 @@
+/home/sxf/Myself/Gauss-Newton-Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sxf/Myself/Gauss-Newton-Code/cmake-build-debug/CMakeFiles/Gauss-Newton-Code.dir
+/home/sxf/Myself/Gauss-Newton-Code/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sxf/Myself/Gauss-Newton-Code/Gauss-Newton-Code.cpp
+iostream
+-
+eigen3/Eigen/Core
+-
+vector
+-
+opencv2/opencv.hpp
+-
+eigen3/Eigen/Cholesky
+-
+eigen3/Eigen/QR
+-
+eigen3/Eigen/SVD
+-
+chrono
+-
+iomanip
+-
+
